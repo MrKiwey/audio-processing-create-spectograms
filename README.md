@@ -8,10 +8,10 @@ To do this, run this code from the terminal after cloning:
 python -m venv your-venv-name
 ```
 
-Then install librosa and matplotlib:
+Then install librosa, pandas and matplotlib:
 
 ```
-pip install librosa, matplotlib
+pip install librosa, pandas, matplotlib
 ```
 
 You also need to download your sound files and put them in the project folder. 
